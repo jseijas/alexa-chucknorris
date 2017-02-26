@@ -46,4 +46,4 @@ class AlexaApp {
   }
 }
 
-var alexaApp = new AlexaApp({ name: 'chucknorris', port: 3978 });
+var alexaApp = new AlexaApp({ name: 'chucknorris' });
